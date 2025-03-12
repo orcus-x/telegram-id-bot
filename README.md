@@ -19,7 +19,7 @@ This repository contains a simple Telegram bot built using Python and the `pytho
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/telegram-id-bot.git
+   git clone https://github.com/orcus-x/telegram-id-bot.git
    cd telegram-id-bot
    ```
 
